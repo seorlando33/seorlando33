@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seorlando/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seorlando33)
 
-I am a passionate IT professional with a focus on <b>System Design</b> and  <b>Back-End</b> development, constantly seeking new challenges that allow me to expand my skills and knowledge. My professional focus is to deliver value designing and delivering solutions. My main tools include <b>Golang</b>v <b>PostgreSQL</b>, and <b>Google Cloud Platform (GCP)</b>.
+I am a passionate IT professional with a focus on <b>System Design</b> and  <b>Back-End</b> development, constantly seeking new challenges that allow me to expand my skills and knowledge. My professional focus is to deliver value designing and delivering solutions. My main tools include <b>Golang</b>, <b>PostgreSQL</b>, and <b>Google Cloud Platform (GCP)</b>.
 
 In my free time, I enjoy reading philosophy and hangout with friends.
 
